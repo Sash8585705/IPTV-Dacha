@@ -3,9 +3,11 @@
 
 #EXTINF:-1 tvg-id="sibir24" tvg-logo="https://i.imgur.com/jgwQPl0.png" group-title="Основные" ,Сибирь 24 (Новосибирск)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/sibir24-hd/index.m3u8
-#EXTINF:-1 tvg-id="cartoon-network" tvg-logo="http://epg.one/img2/cartoon-network.png" group-title="Основные", Cartoon Network
+#EXTINF:-1 tvg-id="cartoon-network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Основные", Cartoon Network
 http://176.118.197.101/Cartoon_Network/index.m3u8
-#EXTINF:-1 tvg-id="rossia1" tvg-logo="http://epg.one/img2/rossia1.png" group-title="Основные", Россия 1 HD
+#EXTINF:-1 tvg-id="rossia1" tvg-logo="https://i.imgur.com/Osd2JHL.png" group-title="Основные", Россия 1 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/russia1-hd/index.m3u8
-#EXTINF:-1 tvg-id="rossia-24" tvg-logo="http://epg.one/img2/rossia-24.png" group-title="Основные", Россия 24
+#EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/960px-Rossiya-24_Logo.svg.png" group-title="Основные", Россия 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Disney-XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg" group-title="Основные", Disney XD
+https://e4.thetvapp.to/hls/DisneyXDEast/tracks-v1a1/mono.m3u8?token=iRXmK3PDIbrJBBLNDcYgUQ&expires=1773708734&user_id=MzEuNTcuNjIuMjQ4
