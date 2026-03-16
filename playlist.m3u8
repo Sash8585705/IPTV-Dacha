@@ -13,3 +13,7 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/russia24-sd/index.m3u8
 https://e4.thetvapp.to/hls/DisneyXDEast/tracks-v1a1/mono.m3u8?token=iRXmK3PDIbrJBBLNDcYgUQ&expires=1773708734&user_id=MzEuNTcuNjIuMjQ4
 #EXTINF:-1 tvg-id="Disney" tvg-logo="https://www.pngmart.com/files/23/Disney-Logo-Transparent-PNG.png" group-title="Основные", Disney
 https://v5.thetvapp.to/hls/DisneyChannelEast/tracks-v1a1/mono.m3u8?token=iNqJK3rCqcupJxybVBcIGQ&expires=1773709389&user_id=MzEuNTcuNjIuMjQ4
+#EXTINF:-1 tvg-id="2ymnojitna2" tvg-logo="https://i.imgur.com/fhQFLEl.png" group-title="Основные", 2x2
+http://31.148.48.15/2x2/index.m3u8
+#EXTINF:-1 tvg-id="pyatnica" tvg-logo="https://i.imgur.com/UfmlXxe.png" group-title="Основные", Пятница!
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
