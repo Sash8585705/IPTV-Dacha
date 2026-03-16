@@ -1,3 +1,6 @@
+#EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz"
+#PLAYLIST:Sibir
+
 #EXTINF:-1 tvg-id="sibir24" tvg-logo="https://i.imgur.com/jgwQPl0.png" group-title="Основные" ,Сибирь 24 (Новосибирск)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/sibir24-hd/index.m3u8
 #EXTINF:-1 tvg-id="cartoon-network" tvg-logo="http://epg.one/img2/cartoon-network.png" group-title="Основные", Cartoon Network
