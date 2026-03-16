@@ -11,5 +11,5 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/russia1-hd/index.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/russia24-sd/index.m3u8
 #EXTINF:-1 tvg-id="Disney-XD" tvg-logo="https://www.pngmart.com/files/12/Disney-XD-Logo-PNG-Photos.png" group-title="Основные", Disney XD
 https://e4.thetvapp.to/hls/DisneyXDEast/tracks-v1a1/mono.m3u8?token=iRXmK3PDIbrJBBLNDcYgUQ&expires=1773708734&user_id=MzEuNTcuNjIuMjQ4
-#EXTINF:-1 tvg-id="Disney-XD" tvg-logo="https://www.pngmart.com/files/23/Disney-Logo-Transparent-PNG.png" group-title="Основные", Disney
+#EXTINF:-1 tvg-id="Disney" tvg-logo="https://www.pngmart.com/files/23/Disney-Logo-Transparent-PNG.png" group-title="Основные", Disney
 https://v5.thetvapp.to/hls/DisneyChannelEast/tracks-v1a1/mono.m3u8?token=iNqJK3rCqcupJxybVBcIGQ&expires=1773709389&user_id=MzEuNTcuNjIuMjQ4
