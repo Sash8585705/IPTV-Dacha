@@ -1,1 +1,8 @@
-
+#EXTINF:-1 tvg-id="sibir24" tvg-logo="https://i.imgur.com/jgwQPl0.png" group-title="Основные" ,Сибирь 24 (Новосибирск)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/sibir24-hd/index.m3u8
+#EXTINF:-1 tvg-id="cartoon-network" tvg-logo="http://epg.one/img2/cartoon-network.png" group-title="Основные", Cartoon Network
+http://176.118.197.101/Cartoon_Network/index.m3u8
+#EXTINF:-1 tvg-id="rossia1" tvg-logo="http://epg.one/img2/rossia1.png" group-title="Основные", Россия 1 HD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="rossia-24" tvg-logo="http://epg.one/img2/rossia-24.png" group-title="Основные", Россия 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/russia24-sd/index.m3u8
